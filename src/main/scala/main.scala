@@ -144,7 +144,6 @@ object main {
       val recall = evaluation.recall()
       val f1 = evaluation.f1()
       println(s"Accuracy: $accuracy, Validation Precision: $precision, Recall: $recall, F1 Score: $f1")
-//      val accuracy: Double = 0
 
       // 4. Learning Rate - kept constant at 0.01
       val learningRate: Double = 0.01
