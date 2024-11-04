@@ -15,7 +15,7 @@ The video explains the deployment of Spark application in the AWS EMR Cluster an
 
 
 ### Environment
-   ```
+   ```bash
    OS: Windows 11
    
    IDE: IntelliJ IDEA 2024.2.3 (Ultimate Edition)
