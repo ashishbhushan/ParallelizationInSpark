@@ -15,19 +15,19 @@ The video explains the deployment of Spark application in the AWS EMR Cluster an
 
 
 ### Environment
-```
-OS: Windows 11
-
-IDE: IntelliJ IDEA 2024.2.3 (Ultimate Edition)
-
-SCALA Version: 2.12.18
-
-SBT Version: 1.10.4
-
-Spark Version: 3.5.3
-
-Java Version: 11.0.24
-```
+   ```
+   OS: Windows 11
+   
+   IDE: IntelliJ IDEA 2024.2.3 (Ultimate Edition)
+   
+   SCALA Version: 2.12.18
+   
+   SBT Version: 1.10.4
+   
+   Spark Version: 3.5.3
+   
+   Java Version: 11.0.24
+   ```
 
 
 ### Running the project
