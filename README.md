@@ -34,13 +34,13 @@ Java Version: 11.0.24
 
 1) **Clone this repository**
 
-   ```
+   ```bash
    https://github.com/ashishbhushan/CS441HW2.git
    ```
 
 2) **Navigate to the Project:**
 
-   ```
+   ```bash
    cd CS441HW1
    ```
 
