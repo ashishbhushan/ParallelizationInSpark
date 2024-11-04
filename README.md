@@ -34,9 +34,9 @@ Java Version: 11.0.24
 
 1) **Clone this repository**
 
-```
-https://github.com/ashishbhushan/CS441HW2.git
-```
+   ```
+   https://github.com/ashishbhushan/CS441HW2.git
+   ```
 
 2) **Navigate to the Project:**
 
