@@ -7,8 +7,12 @@
 ## Introduction
 
 Homework Assignment 2 for CS441 centers on harnessing Spark’s distributed computing capabilities to build parallelization from the ground up using cloud-based technologies. In this phase, we will implement positional embeddings, then create, train, and save a SparkDl4jMultiLayer model with the generated embeddings, leveraging Spark’s distributed processing for scalability. We’ll also gather detailed training statistics throughout. After local testing, the program will be deployed and executed on Amazon Elastic MapReduce (EMR) for full-scale distributed processing.
+
+
 Video Link:
+
 The video explains the deployment of Spark application in the AWS EMR Cluster and the project structure
+
 
 ### Environment
 ```
