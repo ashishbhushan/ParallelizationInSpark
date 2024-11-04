@@ -80,7 +80,7 @@ Input args:
 Run the project via the main function - main.scala
 
 
-```
+
 ## Project Structure
 
 The project comprises the following key components:
