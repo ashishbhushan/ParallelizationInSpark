@@ -47,7 +47,7 @@ Java Version: 11.0.24
 3) **Open the project in IntelliJ**
 
 
-[How to Open a Project in IntelliJ](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html#open-project)
+   [How to Open a Project in IntelliJ](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html#open-project)
 
 
 4) **Run the project via Intellij**
