@@ -41,7 +41,7 @@ The video explains the deployment of Spark application in the AWS EMR Cluster an
 2) **Navigate to the Project:**
 
    ```bash
-   cd CS441HW1
+   cd CS441HW2
    ```
 
 3) **Open the project in IntelliJ**
